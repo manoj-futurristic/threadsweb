@@ -1,2 +1,2 @@
 # threadsweb
-# Demo - [GitHub Pages](https://manoj-futurristic.github.io/threadsweb/).
+# Demo - [link](https://manoj-futurristic.github.io/threadsweb/).
